@@ -1,2 +1,1 @@
-# PrepCourseHenry
-This is a test repository for the prep course for Henry 
+This proyect is a test on how to create a respository and clone it 
